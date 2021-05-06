@@ -24,7 +24,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
-    url = "https://twitter.com/Suikaba"
+    url = "https://twitter.com/suibaka"
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
