@@ -28,7 +28,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "wakizaka@fos.kuis.kyoto-u.ac.jp"
+    url = "mailto:wakizaka@fos.kuis.kyoto-u.ac.jp"
 
 [permalinks]
   "/" = "/:filename"
