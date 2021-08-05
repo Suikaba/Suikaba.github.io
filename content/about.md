@@ -31,6 +31,8 @@ WIP.
 
 ## Work Experience
 * 2017/11- Office Assistant in KUIAS iCeMS
+* 2021/4- Software Engineer in Fixstars, Inc.
+* 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
 * 2021/1 Internship at MC Digital, Inc.
 * 2020/8-2020/10 Summer Internship at LeapMind, Inc.
 * 2020/4-2020/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
