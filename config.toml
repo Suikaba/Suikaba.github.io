@@ -1,6 +1,6 @@
 baseURL = "https://Suikaba.github.io/"
 languageCode = "en-us"
-title = "Suikaba.github.io"
+title = "Ryo Wakizaka"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true

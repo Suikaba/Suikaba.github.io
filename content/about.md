@@ -2,10 +2,6 @@
 title = "About"
 +++
 
-## About Me
-
-WIP.
-
 ## Research Interest
 * Quantum Programming Languages
 * Type Systems

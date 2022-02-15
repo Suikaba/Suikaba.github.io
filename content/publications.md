@@ -2,6 +2,8 @@
 title = "Publications"
 +++
 
+## Refereed papers
+1. 脇坂遼、五十嵐淳．Type-Based Qubit Allocation for a First-Order Quantum Programming Language. 第24回プログラミングおよびプログラミング言語ワークショップ（PPL2022）.
 
 ## Non-refereed papers
 
