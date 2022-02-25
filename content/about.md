@@ -2,6 +2,12 @@
 title = "About"
 +++
 
+I am a master's student at
+* [Igarashi and Suenaga Lab](http://www.fos.kuis.kyoto-u.ac.jp/),
+* Department of Communications and Computer Engineering,
+* Graduate School of Informatics,
+* Kyoto University.
+
 ## Research Interest
 * Quantum Programming Languages
 * Type Systems
