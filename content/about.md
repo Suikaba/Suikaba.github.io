@@ -2,21 +2,20 @@
 title = "About"
 +++
 
-I am a master's student at
+I am a Ph.D. student at
 * [Igarashi and Suenaga Lab](http://www.fos.kuis.kyoto-u.ac.jp/),
 * Department of Communications and Computer Engineering,
 * Graduate School of Informatics,
 * Kyoto University.
 
-## Research Interest
-* Quantum Programming Languages
-* Type Systems
-* Quantum Computing
-* Optimization and Verification of Quantum Programs
+## Research Interests
+* Quantum programming languages and type systems
+* Compilation of high-level quantum programs
 
 
 ## Education
-* 2020- Master of Informatics, Kyoto University
+* 2022- Doctor of Informatics, Kyoto University
+* 2020-2022 Master of Informatics, Kyoto University
 * 2016-2020 Bachelor of Engineering, Kyoto University
 
 
@@ -31,11 +30,15 @@ I am a master's student at
 * ACM-ICPC 2017 Asia Tsukuba Regional : 21st place
 
 
-## Work Experience
+## Work Experiences
+
 * 2017/11- Office Assistant in KUIAS iCeMS
-* 2021/4- Software Engineer in Fixstars, Inc.
-* 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
+* 2021/4-2022/3 Software Engineer in Fixstars, Inc.
 * 2021/1 Internship at MC Digital, Inc.
 * 2020/8-2020/10 Summer Internship at LeapMind, Inc.
-* 2020/4-2020/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
 * 2020/2-2020/3 Internship in Fixstars, Inc.
+
+## Teaching Experiences
+
+* 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
+* 2020/4-2020/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
