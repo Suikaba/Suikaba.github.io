@@ -34,9 +34,9 @@ I am a Ph.D. student at
 | 2017/11- | Office Assistant | KUIAS iCeMS |
 | 2021/4-2022/3 | Software Engineer | Fixstars, Inc. |
 | 2021/8-2021/9 | Student Intern <br>(paid intern, full-time) | NTT Computer & Data Science Laboratory |
-| 2021/1 | Student Intern | MC Digital, Inc. |
-| 2020/8-2020/10 | Student Intern | LeapMind, Inc. |
-| 2020/2-2020/3 | Student Intern | Fixstars, Inc. |
+| 2021/1 | Student Intern <br>(paid intern, full-time) | MC Digital, Inc. |
+| 2020/8-2020/10 | Student Intern <br>(paid intern, full-time) | LeapMind, Inc. |
+| 2020/2-2020/3 | Student Intern <br>(paid intern, full-time) | Fixstars, Inc. |
 
 ## Teaching Experiences
 
