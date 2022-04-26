@@ -8,8 +8,6 @@ I am a Ph.D. student at
 * Graduate School of Informatics,
 * Kyoto University.
 
-<div itemscope="itemscope" itemtype="https://schema.org/Person"><a itemprop="sameAs" href="https://orcid.org/0000-0001-8762-9335" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"/>orcid.org/0000-0001-8762-9335</a></div>
-
 ## Research Interests
 * Quantum programming languages and type systems
 * Compilation of high-level quantum programs
