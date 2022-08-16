@@ -38,6 +38,13 @@ I am a Ph.D. student at
 | 2020/8 - 2020/10 | Student Intern <br>(paid intern, full-time) | LeapMind, Inc. |
 | 2020/2 - 2020/3 | Student Intern <br>(paid intern, full-time) | Fixstars, Inc. |
 
+## Academic Service
+
+| Year | Role | Association |
+| ---- | -------- | ----------- |
+| 2022 | Artifact Evaluation Committee | [&lt;Programming&gt; 2023](https://2023.programming-conference.org/) |
+
+
 ## Teaching Experiences
 
 * 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
