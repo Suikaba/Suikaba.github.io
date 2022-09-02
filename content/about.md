@@ -27,7 +27,7 @@ I am a Ph.D. student at
 * ACM-ICPC 2018 Asia Yokohama Regional : 9th place
 * ACM-ICPC 2017 Asia Yangon Regional : 4th place
 
-## Work Experiences
+## Work Experience
 
 | Period | Position | Association |
 | ------ | -------- | ----------- |
@@ -45,7 +45,7 @@ I am a Ph.D. student at
 | 2022 | Artifact Evaluation Committee | [&lt;Programming&gt; 2023](https://2023.programming-conference.org/) |
 
 
-## Teaching Experiences
+## Teaching Experience
 
 * 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
 * 2020/4-2020/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
