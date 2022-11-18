@@ -8,18 +8,7 @@ I am a Ph.D. student at
 * Graduate School of Informatics,
 * Kyoto University.
 
-{{<rawhtml>}}<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0001-8762-9335"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em; float: left; vertical-align: middle"
-        alt="ORCID iD icon"/>https://orcid.org/0000-0001-8762-9335
-    </a>{{</rawhtml>}}  
+My ORDID: https://orcid.org/0000-0001-8762-9335
 
 ## Research Interests
 * Quantum programming languages and type systems
@@ -31,8 +20,9 @@ I am a Ph.D. student at
 * 2016-2020 Bachelor of Engineering, Kyoto University
 
 ## Honors
-* JSSST2020 Presentation Award
-* PPL2022 Best Student Presentation Award
+* QEd Summer School 2022, Best Poster Award
+* PPL2022, Best Student Presentation Award
+* JSSST2020, Presentation Award
 
 ## Activities
 * Qiskit Camp Asia 2019 : 1st place
