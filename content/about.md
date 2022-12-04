@@ -12,6 +12,7 @@ My ORDID: https://orcid.org/0000-0001-8762-9335
 
 ## Research Interests
 * Quantum programming languages and type systems
+* Quantum computer architectures
 * Compilation of high-level quantum programs
 
 ## Education
