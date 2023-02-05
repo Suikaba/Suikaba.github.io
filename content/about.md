@@ -51,8 +51,10 @@ My ORDID: https://orcid.org/0000-0001-8762-9335
 
 ## Teaching Experience
 
-* 2021/4-2021/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
-* 2020/4-2020/7 Teaching Assistant for "Computer Science Laboratory and Exercise 3"
+| Period | Role | Description |
+| ------ | ---- | ----------- |
+| 2021/4-2021/7 | Teaching Assistant | Computer Science Laboratory and Exercise 3 |
+| 2020/4-2020/7 | Teaching Assistant | "Computer Science Laboratory and Exercise 3" |
 
 ## Contact
 

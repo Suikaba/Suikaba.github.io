@@ -3,7 +3,7 @@ title = "Publications"
 +++
 
 ## Conference Papers (refereed)
-1. **Ryo Wakizaka**, Shin Nishio. InQuIR: Intermediate Representation for Interconnected Quantum Computers. *Quantum Resource Estimation (QRE2022)*. New York, USA co-located with *International Symposium on Computer Architecture (ISCA)*. June 2022.
+1. **Ryo Wakizaka<sup>1</sup>**, Shin Nishio<sup>1</sup>. InQuIR: Intermediate Representation for Interconnected Quantum Computers. *Quantum Resource Estimation (QRE2022)*. New York, USA co-located with *International Symposium on Computer Architecture (ISCA)*. June 2022. (1: equally contributed)
 
 ## Conference Papers (refereed, domestic)
 1. **脇坂遼**、五十嵐淳．Type-Based Qubit Allocation for a First-Order Quantum Programming Language. 第24回プログラミングおよびプログラミング言語ワークショップ（PPL2022）. 2022年3月．
@@ -15,5 +15,6 @@ title = "Publications"
 
 ## Posters
 
+1. **脇坂遼**, 西尾真．InQuIR: Intermediate Representation for Interconnected Quantum Computers. *QEd summer school 2022*. 沖縄, 日本． 2022年9月.
 1. **脇坂遼**，五十嵐淳．「量子プログラムのための依存型を用いた Coupling Graph 解析」PPL2020
 
