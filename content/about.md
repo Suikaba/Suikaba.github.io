@@ -35,6 +35,7 @@ My ORDID: https://orcid.org/0000-0001-8762-9335
 
 | Period | Position | Association |
 | ------ | -------- | ----------- |
+| 2023/6 - 2023/12 | Student Intern <br>(paid intern, full-time) | IBM Research - Tokyo |
 | 2017/11 - 2022/11 | Office Assistant | KUIAS iCeMS |
 | 2021/4 - 2022/3 | Software Engineer | Fixstars, Inc. |
 | 2021/8 - 2021/9 | Student Intern <br>(paid intern, full-time) | NTT Computer & Data Science Laboratory |
@@ -53,8 +54,10 @@ My ORDID: https://orcid.org/0000-0001-8762-9335
 
 | Period | Role | Description |
 | ------ | ---- | ----------- |
+| 2023/4-2023/8 | Teaching Assistant | Computer Science Laboratory and Exercise 3 |
+| 2023/4-2023/7 | Teaching Assistant | Implementation of Programming Languages |
 | 2021/4-2021/7 | Teaching Assistant | Computer Science Laboratory and Exercise 3 |
-| 2020/4-2020/7 | Teaching Assistant | "Computer Science Laboratory and Exercise 3" |
+| 2020/4-2020/7 | Teaching Assistant | Computer Science Laboratory and Exercise 3 |
 
 ## Contact
 
