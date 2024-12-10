@@ -4,10 +4,14 @@ title = "Publications"
 
 ## Conference Papers (refereed)
 
+- <u>Ryo Wakizaka</u>, Yasunari Suzuki, Atsushi Igarashi.  
+**Type-Based Verification of Connectivity Constraints in Lattice Surgery.**  
+*Asian Symposium on Programming Languages and Systems (APLAS2024)*.  
+\[[paper](https://link.springer.com/chapter/10.1007/978-981-97-8943-6_11)\]
 - <u>Ryo Wakizaka</u>.  
 **Towards Reliable Distributed Quantum Computing on Quantum Interconnects.**  
 *The First International Workshop on the Art, Science, and Engineering of Quantum Programming (QP2023)*.  
-(To be appear)
+\[[paper](https://dl.acm.org/doi/10.1145/3594671.3594691)\]
 - <u>Ryo Wakizaka</u>, Shin Nishio. (equally contributed)  
 **InQuIR: Intermediate Representation for Interconnected Quantum Computers.**  
 *Quantum Resource Estimation (QRE2022)*.  
@@ -37,6 +41,9 @@ title = "Publications"
 
 ## Posters
 
+- <u>Ryo Wakizaka</u>, Shin Nishio.  
+**Resource-Aware Deadlock Freedom for Distributed Quantum Programs**  
+*6th International Workshop on Quantum Compilation (IWQC2024)*. Berlin, Germany. 2024-09.
 - <u>脇坂遼</u>, 西尾真.  
 **InQuIR: Intermediate Representation for Interconnected Quantum Computers**  
 *QEd summer school 2022*. 沖縄, 日本． 2022年9月.
