@@ -30,10 +30,14 @@ title = "Publications"
 - <u>脇坂遼</u>，五十嵐淳.  
 **量子ビット連結性制約検査のための依存型システム**  
 日本ソフトウェア科学会第37回大会 (JSSST2020).  
-[pdf](/papers/jssst2020-ppl3-3.pdf)
+\[[paper](/papers/jssst2020-ppl3-3.pdf)\]
 
-## Selected Talks
+## Talks
 
+- Yusuke Matsushita, Kengo Hirata, <u>Ryo Wakizaka</u>.  
+**Concurrent Quantum Separation Logic for Fine-Grained Parallelism**  
+[PLanQC2025](https://popl25.sigplan.org/home/planqc-2025), Denver, Colorado, United States co-located with the 52nd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2025), January 2025.
+\[[slide](/slides/planqc2025.pdf)\]
 - <u>Ryo Wakizaka</u>, Shin Nishio.  
 **InQuIR: Intermediate Representation for Interconnected Quantum Computers**  
 [QRE2022](https://www.quantumresource.org/), New York, USA co-located with International Symposium on Computer Architecture (ISCA), June 2022.
