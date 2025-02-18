@@ -24,6 +24,9 @@ title = "Publications"
 
 ## Conference Papers (not refereed, domestic)
 
+- 西尾真、<u>脇坂遼</u>，佐久間 大輔、上野 洋典、鈴木 泰成  
+**フォールトトレラント量子マルチプログラミングのためのオンラインスケジューラ**  
+第14回量子ソフトウェア研究会 (QIT14). 2025年3月.
 - <u>脇坂遼</u>，鈴木泰成，徳永裕己.  
 **表面符号と格子手術を用いた量子計算のためのコンパイラバックエンド開発**  
 第46回量子情報技術研究会 (QIT46). 2022年5月.
@@ -36,7 +39,7 @@ title = "Publications"
 
 - Yusuke Matsushita, Kengo Hirata, <u>Ryo Wakizaka</u>.  
 **Concurrent Quantum Separation Logic for Fine-Grained Parallelism**  
-[PLanQC2025](https://popl25.sigplan.org/home/planqc-2025), Denver, Colorado, United States co-located with the 52nd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2025), January 2025.
+[PLanQC2025](https://popl25.sigplan.org/home/planqc-2025), Denver, Colorado, United States co-located with the 52nd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2025), January 2025.  
 \[[slide](/slides/planqc2025.pdf)\]
 - <u>Ryo Wakizaka</u>, Shin Nishio.  
 **InQuIR: Intermediate Representation for Interconnected Quantum Computers**  
@@ -45,6 +48,12 @@ title = "Publications"
 
 ## Posters
 
+- Shin Nishio, <u>Ryo Wakizaka</u>, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki.  
+**Online Job Scheduler for Fault-tolerant Quantum Multiprogramming**  
+*Quantum Computing Theory in Practice (QCTiP2025)*. Berlin, Germany. April, 2025.
+- 脇坂遼、鈴木泰成.  
+**格子手術プログラムのためのコンポジショナルな量子ビット割り当て手法**  
+*第27回プログラミングおよびプログラミング言語ワークショップ (PPL2025)*. 愛知県. 2025年3月.
 - <u>Ryo Wakizaka</u>, Shin Nishio.  
 **Resource-Aware Deadlock Freedom for Distributed Quantum Programs**  
 *6th International Workshop on Quantum Compilation (IWQC2024)*. Berlin, Germany. 2024-09.
